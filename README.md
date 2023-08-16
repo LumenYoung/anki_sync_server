@@ -1,6 +1,6 @@
 ## Anki Sync Server
 
-The Docker image for anki offical sync server. 
+A unofficial Dockerfile for anki offical sync server. 
 
 ## USAGE
 
