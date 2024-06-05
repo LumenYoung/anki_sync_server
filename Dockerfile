@@ -2,7 +2,7 @@ FROM python:3.11
 
 WORKDIR /
 
-ARG ANKI_DOWNLOAD_LINK='https://github.com/ankitects/anki/releases/download/2.1.61/anki-2.1.61-linux-qt6.tar.zst'
+ARG ANKI_DOWNLOAD_LINK='https://github.com/ankitects/anki/releases/download/24.04.1/anki-24.04.1-linux-qt6.tar.zst'
 
 ARG ANKI_USER=example
 
